@@ -682,9 +682,10 @@ def main():
     source_results = {}
     source_status = {}
 
-    with tempfile.TemporaryDirectory() as temporary_directory:
-        workdir = Path(temporary_directory)
+    temporary_directory = tempfile.TemporaryDirectory()
+    workdir = Path(temporary_directory.name)
 
+    try:
         for source_url, rows in channels_by_source.items():
             print("----------------------------------------")
             print(f"Source: {source_url}")
@@ -738,16 +739,18 @@ def main():
                     "error": str(exc),
                 }
 
-    (
-        published_ids,
-        programme_counts,
-        resolutions,
-        unresolved,
-    ) = write_xml(
-        mapping,
-        source_results,
-        generated_at,
-    )
+        (
+            published_ids,
+            programme_counts,
+            resolutions,
+            unresolved,
+        ) = write_xml(
+            mapping,
+            source_results,
+            generated_at,
+        )
+    finally:
+        temporary_directory.cleanup()
 
     channels_without_programmes = []
 
