@@ -1,0 +1,630 @@
+canonical_stable_id,canonical_channel_name,country,epg_provider,epg_id,epg_source_url,channel_number,category,subcategory,include
+us:us-nbc-sports-network-2-feed-nbcsn-ytv,(US) NBC Sports Network 2 (Feed) (NBCSN) (YTV),US,EPGShare,nbc.sports.network.2.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+za:1kzn-tv,1KZN TV,South Africa,EPGShare,1.KZN.za,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,,General Entertainment,Free-to-Air,true
+au:10-bold,10 Bold,AU,EPGShare,10Bold.au,https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz,,General Entertainment,Entertainment,true
+uk:4seven,4seven,UK,EPGShare,4seven.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Entertainment,true
+us:5starmax,5StarMAX,US,EPGShare,5.star.max.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+uk:5select,5SELECT,UK,EPGShare,5SELECT.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Entertainment,true
+uk:5star,5STAR,UK,EPGShare,5STAR.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Entertainment,true
+au:7two,7TWO,AU,EPGShare,7two.au,https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz,,General Entertainment,Lifestyle & Entertainment,true
+au:9gem,9GEM,AU,EPGShare,9Gem.au,https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz,,General Entertainment,Entertainment,true
+au:9go,9GO,AU,EPGShare,9Go.au,https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz,,General Entertainment,Entertainment,true
+au:9life,9LIFE,AU,EPGShare,9Life.au,https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz,,Lifestyle & Culture,Lifestyle,true
+au:channel-9,Channel 9,AU,EPGShare,NineNetwork.au,https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz,,General Entertainment,General,true
+ca:a-side-tv,A Side TV,Canada,EPGShare,a.side.tv.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Music,Music,true
+us:a-and-e,A&E,US,EPGShare,ae.us.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:abc-news-live,ABC News Live,US,EPGShare,abc.news.live.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,News & Business,News,true
+us:acc-network,ACC Network,US,EPGShare,acc.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:actionmax,ActionMAX,US,EPGShare,actionmax.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:adult-swim,Adult Swim,US,EPGShare,adult.swim.east.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+uk:alibi,alibi,UK,EPGShare,Alibi.ie,https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz,,General Entertainment,Drama & Entertainment,true
+us:altitude-sports,Altitude Sports,US,EPGShare,altitude.sports.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+ca:amc,AMC,Canada,EPGShare,amc.canada.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Movies,Movies & Series,true
+us:amc,AMC,US,EPGShare,amc.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:amc-presents,AMC Presents,US,EPGShare,amc.on.demand.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:amc-plus,AMC+,US,EPGShare,amc.plus.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:american-heroes,American Heroes,US,EPGShare,american.heroes.channel.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Documentary,Documentary / Factual,true
+ca:american-heroes,American Heroes,Canada,EPGShare,american.heroes.channel.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Documentary,History,true
+ca:animal-planet,Animal Planet,Canada,EPGShare,animal.planet.canada.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Documentary,Animals & Nature,true
+us:animal-planet,Animal Planet,US,EPGShare,animal.planet.us.east.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Documentary,Documentary / Factual,true
+uk:animal-planet,Animal Planet,UK,EPGShare,Animal.Planet.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Documentary,Animals & Nature,true
+us:antenna-tv,Antenna TV,US,EPGShare,antenna.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+ca:aptn,APTN,Canada,EPGShare,aptn.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,General Entertainment,Indigenous / General,true
+us:aspire,Aspire,US,EPGShare,aspire.tv.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:at-home-with-family-handyman,At Home with Family Handyman,US,EPGShare,at.home.with.family.handyman.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Lifestyle & Culture,Lifestyle,true
+ca:atn-cricket-plus,ATN Cricket Plus,Canada,EPGShare,atn.cricket.plus.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Sports,Cricket,true
+us:awe,AWE,US,EPGShare,awe.tv.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:axs-tv,AXS TV,US,EPGShare,axs.tv.usa.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:babyfirst,BabyFirst,US,EPGShare,baby.first.tv.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Kids & Teen,Kids,true
+us:babytv,BabyTV,US,EPGShare,baby.tv.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Kids & Teen,Kids,true
+uk:bbc-one,BBC One,UK,EPGShare,BBC.One.Lon.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Free-to-Air,true
+uk:bbc-two,BBC Two,UK,EPGShare,BBC.Two.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Free-to-Air,true
+uk:bbc-four,BBC Four,UK,EPGShare,BBC.Four.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Culture & Arts,true
+us:bbc-america,BBC America,US,EPGShare,bbc.america.east.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+ca:bbc-earth,BBC Earth,Canada,EPGShare,bbc.earth.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Documentary,Science & Nature,true
+ca:bbc-first,BBC First,Canada,EPGShare,bbc.first.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,General Entertainment,Drama & Entertainment,true
+uk:bbc-news,BBC News,UK,EPGShare,BBC.NEWS.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,News & Business,News,true
+uk:bbc-three,BBC Three,UK,EPGShare,BBC.Three.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Entertainment,true
+us:bbc-world-north-america,BBC World North America,US,EPGShare,bbc.world.north.america.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:bein-sports-1,beIN SPORTS 1,US,EPGShare,bein.sports.1.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:bein-sports-4,beIN SPORTS 4,US,EPGShare,bein.sports.4.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:bein-sports-5,beIN SPORTS 5,US,EPGShare,bein.sports.5.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:bein-sports-6,beIN SPORTS 6,US,EPGShare,bein.sports.6.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:bein-sports-7,beIN SPORTS 7,US,EPGShare,bein.sports.7.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:bein-sports-8,beIN SPORTS 8,US,EPGShare,bein.sports.8.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:bein-sports-liga,beIN SPORTS LIGA,US,EPGShare,bein.sports.liga.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:bein-sports-xtra,beIN SPORTS Xtra,US,EPGShare,bein.sports.xtra.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:bet,BET,US,EPGShare,bet.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:bet-gospel,BET Gospel,US,EPGShare,bet.gospel.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Religion,Religion,true
+us:bet-her,BET Her,US,EPGShare,bet.her.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:bet-jams,BET Jams,US,EPGShare,bet.jams.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+us:bet-soul,BET Soul,US,EPGShare,bet.soul.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+us:big-brother-us-1,Big Brother US 1,US,EPGShare,big.brother.1.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:big-brother-us-2,Big Brother US 2,US,EPGShare,big.brother.2.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:big-brother-us-3,Big Brother US 3,US,EPGShare,big.brother.3.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:big-brother-us-4,Big Brother US 4,US,EPGShare,big.brother.4.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:big-brother-us-quad-view,Big Brother US Quad View,US,EPGShare,big.brother.quad.view.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:big-ten-network,Big Ten Network,US,EPGShare,big.ten.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:billiard-tv,Billiard TV,US,EPGShare,billiard.tv.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:black-news-channel,Black News Channel,US,EPGShare,black.news.channel.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,News & Business,News,true
+uk:blaze,BLAZE,UK,EPGShare,BLAZE.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Documentary,Factual & Reality,true
+uk:bloomberg,Bloomberg,UK,EPGShare,Bloomberg.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,News & Business,Business & Finance,true
+us:bloomberg-television,Bloomberg Television,US,EPGShare,bloomberg.tv.usa.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,News & Business,News,true
+us:boomerang,Boomerang,US,EPGShare,boomerang.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Kids & Teen,Kids,true
+uk:boomerang,Boomerang,UK,EPGShare,Boomerang.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Kids & Teen,Kids,true
+us:bounce,Bounce,US,EPGShare,bounce.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+ca:bravo,Bravo,Canada,EPGShare,bravo.canada.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,General Entertainment,Entertainment,true
+us:bravo,Bravo,US,EPGShare,bravo.usa.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:buzzr,BUZZR,US,EPGShare,buzzr.tv.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:caracol-internacional,Caracol Internacional,US,EPGShare,caracol.international.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,International,Spanish / International,true
+us:cartoon-network,Cartoon Network,US,EPGShare,cartoon.network.usa.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Kids & Teen,Kids,true
+ca:cartoon-network,Cartoon Network,Canada,EPGShare,cartoon.network.canada.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Kids & Teen,Kids,true
+uk:cartoon-network,Cartoon Network,UK,EPGShare,Cartoon.Net.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Kids & Teen,Kids,true
+uk:cartoonito,Cartoonito,UK,EPGShare,Cartoonito.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Kids & Teen,Kids,true
+uk:cbbc,CBBC,UK,EPGShare,CBBC.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Kids & Teen,Kids,true
+uk:cbeebies,CBeebies,UK,EPGShare,CBeebies.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Kids & Teen,Kids,true
+uk:cbs-drama,CBS Drama,UK,EPGShare,CBS.Justice.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Drama,true
+us:cbs,CBS,US,EPGShare,cbs.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:cbs-kcal-los-angeles,CBS KCAL Los Angeles,US,EPGShare,kcal.los.angeles.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:cbs-sports-network,CBS Sports Network,US,EPGShare,cbs.sports.network.usa.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+uk:challenge,Challenge,UK,EPGShare,Challenge.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Game Shows,true
+uk:channel-4,Channel 4,UK,EPGShare,Channel.4.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Free-to-Air,true
+uk:channel-5,Channel 5,UK,EPGShare,Channel.5.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Free-to-Air,true
+us:charge,Charge!,US,EPGShare,charge.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:cheddar-news,Cheddar News,US,EPGShare,cheddar.news.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,News & Business,News,true
+ca:chek,CHEK,Canada,EPGShare,chek.tv.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,General Entertainment,Free-to-Air,true
+us:cinemax,Cinemax,US,EPGShare,cinemax.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:classic-arts-showcase,Classic Arts Showcase,US,EPGShare,classic.arts.showcase.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:cleo-tv,Cleo TV,US,EPGShare,cleo.tv.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Lifestyle & Culture,Lifestyle,true
+uk:clubland,Clubland,UK,EPGShare,Clubland.TV.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Music,Music,true
+us:cmt,CMT,US,EPGShare,cmt.us.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+uk:cnbc,CNBC,UK,EPGShare,CNBC.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,News & Business,Business & Finance,true
+us:cnbc,CNBC,US,EPGShare,cnbc.usa.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,News & Business,News,true
+us:cnbc-world,CNBC World,US,EPGShare,cnbc.world.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,News & Business,News,true
+us:cnn-international-north-america,CNN International North America,US,EPGShare,cnn.international.north.america.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,News & Business,News,true
+uk:cnn,CNN,UK,EPGShare,CNN.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,News & Business,News,true
+us:cnn,CNN,US,EPGShare,cnn.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,News & Business,News,true
+za:comedy-central,Comedy Central,South Africa,EPGShare,Comedy.Central.za,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,,General Entertainment,Comedy,true
+uk:comedy-central,Comedy Central,UK,EPGShare,ComedyCentral.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Comedy,true
+us:comedy-central,Comedy Central,US,EPGShare,comedy.central.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Comedy,true
+ca:comedy,Comedy,Canada,EPGShare,comedy.network.east.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,General Entertainment,Comedy,true
+uk:comedyxtra,ComedyXtra,UK,EPGShare,ComedyXtra.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Comedy,true
+us:comet,Comet,US,EPGShare,comet.tv.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+ca:cooking-channel,Cooking Channel,Canada,EPGShare,cooking.channel.canada.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Lifestyle & Culture,Food,true
+us:cooking-channel,Cooking Channel,US,EPGShare,the.cooking.channel.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Lifestyle & Culture,Lifestyle,true
+us:cornerstone-television-network,Cornerstone Television Network,US,EPGShare,cornerstone.television.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Religion,Religion,true
+ca:cottage-life,Cottage Life,Canada,EPGShare,cottage.life.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Lifestyle & Culture,Home & Lifestyle,true
+us:court-tv,Court TV,US,EPGShare,court.tv.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:court-tv-mystery,Court TV Mystery,US,EPGShare,court.tv.mystery.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:cowboy-channel,Cowboy Channel,US,EPGShare,the.cowboy.channel.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Lifestyle & Culture,Lifestyle,true
+us:cozi-tv,Cozi TV,US,EPGShare,cozi.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+ca:crave-1,Crave 1,Canada,EPGShare,crave1.east.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,General Entertainment,Drama & Entertainment,true
+ca:crave-2,Crave 2,Canada,EPGShare,crave2.east.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,General Entertainment,Drama & Entertainment,true
+ca:crave-3,Crave 3,Canada,EPGShare,crave3.east.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,General Entertainment,Drama & Entertainment,true
+ca:crave-4,Crave 4,Canada,EPGShare,crave4.east.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,General Entertainment,Drama & Entertainment,true
+ca:crime-plus-investigation,Crime + Investigation,Canada,EPGShare,crime.investigation.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Documentary,Crime,true
+uk:crime-investigation,Crime + Investigation,UK,EPGShare,Crime+Inv.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Documentary,Crime,true
+us:c-span,C-SPAN,US,EPGShare,cspan.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,News & Business,News,true
+us:c-span2,C-SPAN2,US,EPGShare,c.span.2.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,News & Business,News,true
+us:c-span3,C-SPAN3,US,EPGShare,c.span.3.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,News & Business,News,true
+us:christian-television-network,Christian Television Network,US,EPGShare,ctn.christian.television.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Religion,Religion,true
+ca:ctv-life-channel,CTV Life Channel,Canada,EPGShare,ctv.life.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Lifestyle & Culture,Lifestyle,true
+ca:ctv-sci-fi-channel,CTV Sci-Fi Channel,Canada,EPGShare,ctv.sci.fi.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,General Entertainment,Sci-Fi,true
+us:dabl,Dabl,US,EPGShare,dabl.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Lifestyle & Culture,Lifestyle,true
+uk:dave,Dave,UK,EPGShare,U.and.Dave.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Comedy,true
+za:daystar,Daystar,South Africa,EPGShare,Day.Star.za,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,,Religion,Christian,true
+us:daystar,Daystar,US,EPGShare,daystar.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Religion,Religion,true
+us:decades,DECADES,US,EPGShare,decades.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+ca:dejaview,DejaView,Canada,EPGShare,deja.view.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,General Entertainment,Classic Entertainment,true
+us:destination-america,Destination America,US,EPGShare,destination.america.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Documentary,Documentary / Factual,true
+us:discovery-channel,Discovery Channel,US,EPGShare,discovery.channel.us.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Documentary,Documentary / Factual,true
+ca:discovery-channel,Discovery Channel,Canada,EPGShare,discovery.channel.can.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Documentary,Documentary / Factual,true
+us:discovery-family,Discovery Family,US,EPGShare,discovery.family.channel.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Documentary,Documentary / Factual,true
+uk:discovery-history,Discovery History,UK,EPGShare,Disc.History.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Documentary,History,true
+us:discovery-life,Discovery Life,US,EPGShare,discovery.life.channel.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Documentary,Documentary / Factual,true
+ca:discovery-science,Discovery Science,Canada,EPGShare,discovery.science.canada.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Documentary,Documentary / Factual,true
+uk:discovery-science,Discovery Science,UK,EPGShare,Disc.Science.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Documentary,Science,true
+uk:discovery-turbo,Discovery Turbo,UK,EPGShare,Disc.Turbo.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Documentary,Automotive,true
+uk:discovery-channel,Discovery Channel,UK,EPGShare,Discovery.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Documentary,Science & Nature,true
+ca:discovery-velocity,Discovery Velocity,Canada,EPGShare,discovery.velocity.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Documentary,Documentary / Factual,true
+ca:disney-channel,Disney Channel,Canada,EPGShare,disney.channel.canada.east.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Kids & Teen,Kids,true
+us:disney-channel,Disney Channel,US,EPGShare,disney.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Kids & Teen,Kids,true
+us:disney-junior,Disney Junior,US,EPGShare,disney.junior.usa.east.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Kids & Teen,Kids,true
+ca:disney-junior,Disney Junior,Canada,EPGShare,disney.junior.canada.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Kids & Teen,Kids,true
+us:disney-xd,Disney XD,US,EPGShare,disney.xd.usa.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Kids & Teen,Kids,true
+ca:diy-network,DIY Network,Canada,EPGShare,do.it.yourself.network.canada.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Lifestyle & Culture,Home & DIY,true
+uk:dmax,DMAX,UK,EPGShare,DMAX.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Documentary,Factual & Reality,true
+us:diy-network,DIY Network,US,EPGShare,do.it.yourself.network.usa.east.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+ca:documentary-channel,Documentary Channel,Canada,EPGShare,documentary.channel.canada.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Documentary,Documentary,true
+us:dogtv,DOGTV,US,EPGShare,dog.tv.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Kids & Teen,Kids,true
+uk:drama,Drama,UK,EPGShare,U.and.Drama.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Drama,true
+ca:dtour,DTOUR,Canada,EPGShare,dtour.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Lifestyle & Culture,Travel & Lifestyle,true
+us:dw,DW,US,EPGShare,dw.english.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,International,Spanish / International,true
+ca:e,E!,Canada,EPGShare,e.canada.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,General Entertainment,Entertainment,true
+us:e,E!,US,EPGShare,e.entertainment.usa.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+uk:e,E!,UK,EPGShare,E!.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Entertainment,true
+za:e-tv,e.tv,South Africa,EPGShare,e.TV.HD.za,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,,General Entertainment,Free-to-Air,true
+za:e-tv-extra,e.tv Extra,South Africa,EPGShare,eExtra HD.za,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,,General Entertainment,Local Entertainment,true
+uk:e4,E4,UK,EPGShare,E4.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Entertainment,true
+uk:eden,Eden,UK,EPGShare,U.and.Eden.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Documentary,Nature,true
+us:el-rey-network,El Rey Network,US,EPGShare,el.rey.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:eleven-sports,Eleven Sports,US,EPGShare,eleven.sports.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+za:emovies,eMovies,South Africa,EPGShare,eMovies.za,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,,Movies,Movies,true
+za:emovies-extra,eMovies Extra,South Africa,EPGShare,eMovies.Extra.za,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,,Movies,Movies,true
+za:enca,eNCA,South Africa,EPGShare,eNCA.za,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,,News & Business,News,true
+us:epix,EPIX,US,EPGShare,epix.east.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:epix2,EPIX2,US,EPGShare,epix2.east.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:epix-drive-in,EPIX Drive-In,US,EPGShare,epix.drive.in.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:epix-hits,EPIX Hits,US,EPGShare,epix.hits.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:espn2,ESPN2,US,EPGShare,espn2.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:espnews,ESPNews,US,EPGShare,espn.news.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:espn,ESPN,US,EPGShare,espn.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:espn2-2,ESPN2,US,EPGShare,espn.x2.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+za:espn2,ESPN2,South Africa,EPGShare,ESPN.2.HD.za,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,,Sports,Sports,true
+za:etoonz,eToonz,South Africa,EPGShare,eToonz.za,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,,Kids & Teen,Kids,true
+uk:euronews,Euronews,UK,EPGShare,Euronews.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,News & Business,News,true
+uk:eurosport-1,Eurosport 1,UK,EPGShare,Eurosport.HD.ie,https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz,,Sports,Sports,true
+uk:eurosport-2,Eurosport 2,UK,EPGShare,Eurosport.2.HD.ie,https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz,,Sports,Sports,true
+ca:ewtn,EWTN,Canada,EPGShare,ewtn.canada.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Religion,Christian,true
+ca:fairchild-tv,Fairchild TV,Canada,EPGShare,fairchild.tv.east.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,International,Asian / Chinese,true
+ca:fairchild-tv2,Fairchild TV2,Canada,EPGShare,fairchild.tv.2.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,International,Asian / Chinese,true
+ca:family-channel,Family Channel,Canada,EPGShare,family.channel.east.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Kids & Teen,Kids & Family,true
+ca:family-chrgd,Family CHRGD,Canada,EPGShare,family.chrgd.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Kids & Teen,Kids,true
+ca:family-jr,Family Jr.,Canada,EPGShare,family.jr.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Kids & Teen,Kids,true
+us:family-entertainment-television,Family Entertainment Television,US,EPGShare,fetv.family.entertainment.television.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+ca:fight-network,Fight Network,Canada,EPGShare,fight.network.canada.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Sports,Combat Sports,true
+us:fight-pass-24-7,Fight Pass 24/7,US,EPGShare,ufc.int.001.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+uk:film4,Film4,UK,EPGShare,Film4.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Movies,Movies,true
+us:flsp-live-belfast-wolves-vs-glasgow-cosmics-cricket-belfast-vs-glasgow,FLSP | live:  Belfast Wolves vs Glasgow Cosmics _ Cricket (Belfast vs Glasgow),US,EPGShare,flsp.0007.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:flsp-live-indiana-pa-vs-wingate-field-hockey-indiana-pa-vs-wingate,FLSP | live:  Indiana (PA) vs Wingate _ Field Hockey (Indiana (PA) vs Wingate),US,EPGShare,flsp.0001.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:flsp-live-shippensburg-vs-belmont-abbey-field-hockey-shippensburg-vs-belmont-abbey,FLSP | live:  Shippensburg vs Belmont Abbey _ Field Hockey (Shippensburg vs Belmont Abbey),US,EPGShare,flsp.0013.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:flsp-volleyball-jamestown-vs-purdue-northwest-women-s-jamestown-vs-purdue-northwest,FLSP | volleyball:  Jamestown vs Purdue Northwest _ Women`s (Jamestown vs Purdue Northwest),US,EPGShare,flsp.0011.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Lifestyle & Culture,Lifestyle,true
+us:flsp-volleyball-lake-superior-state-vs-central-state-oh-women-s-lake-superior-vs-central-state-oh,FLSP | volleyball:  Lake Superior State vs Central State (OH) _ Women`s (Lake Superior vs Central State (OH)),US,EPGShare,flsp.0006.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:flsp-volleyball-minnesota-st-moorhead-vs-a-and-m-kingsville-women-s-msu-moorhead-vs-a-and-m-kingsville,FLSP | volleyball:  Minnesota St. Moorhead vs A&M_Kingsville _ Women`s (MSU Moorhead vs A&M_Kingsville),US,EPGShare,flsp.0008.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:flsp-volleyball-randolph-vs-mount-aloysius-women-s-randolph-vs-mount-aloysius,FLSP | volleyball:  Randolph vs Mount Aloysius _ Women`s (Randolph vs Mount Aloysius),US,EPGShare,flsp.0005.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:flsp-volleyball-ut-dallas-vs-southern-arkansas-women-s-ut-dallas-vs-southern-arkansas,FLSP | volleyball:  UT Dallas vs Southern Arkansas _ Women`s (UT Dallas vs Southern Arkansas),US,EPGShare,flsp.0009.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:flsp-volleyball-wilmington-de-vs-d-youville-women-s-wilmington-vs-d-youville,FLSP | volleyball:  Wilmington (DE) vs D`Youville _ Women`s (Wilmington vs D`Youville),US,EPGShare,flsp.0010.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:folk-tv,Folk TV,US,EPGShare,folk.tv.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+ca:food-network,Food Network,Canada,EPGShare,food.network.canada.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Lifestyle & Culture,Food,true
+za:food-network,Food Network,South Africa,EPGShare,Food.Network.HD.za,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,,Lifestyle & Culture,Food,true
+us:food-network,Food Network,US,EPGShare,food.network.usa.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Lifestyle & Culture,Food,true
+uk:food-network,Food Network,UK,EPGShare,Food.Network.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Lifestyle & Culture,Food,true
+us:fox-business,Fox Business,US,EPGShare,fox.business.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,News & Business,News,true
+au:fox-cricket,Fox Cricket,AU,EPGShare,FoxCricket.au,https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz,,Sports,Cricket,true
+us:fox-deportes,Fox Deportes,US,EPGShare,fox.deportes.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+au:fox-footy,Fox Footy,AU,EPGShare,FoxFooty.au,https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz,,Sports,Australian Football,true
+au:fox-league,Fox League,AU,EPGShare,FoxLeague.au,https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz,,Sports,Rugby League,true
+us:fox-news,Fox News,US,EPGShare,fox.news.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,News & Business,News,true
+us:fox-soccer-plus,Fox Soccer Plus,US,EPGShare,fox.soccer.plus.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:fox-sports-1,FOX Sports 1,US,EPGShare,fox.sports.1.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:fox-sports-2,FOX Sports 2,US,EPGShare,fox.sports.2.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+au:fox-sport-503,Fox Sport 503,AU,EPGShare,FoxSports503.au,https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz,,Sports,Sports,true
+au:fox-sport-505,Fox Sport 505,AU,EPGShare,FoxSports505.au,https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz,,Sports,Sports,true
+au:fox-sport-506,Fox Sport 506,AU,EPGShare,FoxSports506.au,https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz,,Sports,Sports,true
+us:france-24-en,France 24 EN,US,EPGShare,france.24.english.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,International,Spanish / International,true
+us:free-speech-network,Free Speech Network,US,EPGShare,free.speech.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,News & Business,News,true
+us:freeform,Freeform,US,EPGShare,freeform.east.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:fubo-sports-1,Fubo Sports 1,US,EPGShare,fubo.sports.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:fubo-sports-2,Fubo Sports 2,US,EPGShare,fubo.sports.2.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:fuse,Fuse,US,EPGShare,fuse.tv.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+ca:fx,FX,Canada,EPGShare,fx.networks.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,General Entertainment,Drama & Entertainment,true
+us:fx-movie-channel,FX Movie Channel,US,EPGShare,fx.movie.channel.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:fx,FX,US,EPGShare,fx.networks.east.coast.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:fxx,FXX,US,EPGShare,fxx.usa.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:fyi,FYI,US,EPGShare,fyi.usa.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:game-show-central,Game Show Central,US,EPGShare,game.show.central.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Lifestyle & Culture,Lifestyle,true
+us:game-show-network,Game Show Network,US,EPGShare,game.show.network.east.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Lifestyle & Culture,Lifestyle,true
+ca:game-show-network,Game Show Network,Canada,EPGShare,game.show.network.east.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,General Entertainment,Game Shows,true
+us:game-plus,Game+,US,EPGShare,game.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+uk:gb-news,GB News,UK,EPGShare,GB.News.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,News & Business,News,true
+us:gettv,getTV,US,EPGShare,gettv.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+uk:gold,GOLD,UK,EPGShare,U.and.GOLD.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Comedy,true
+ca:golf-channel,Golf Channel,Canada,EPGShare,golf.channel.canada.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Sports,Golf,true
+us:golf-channel,Golf Channel,US,EPGShare,golf.channel.usa.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:great-american-family,Great American Family,US,EPGShare,gac.great.american.country.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+uk:great-action,GREAT! action,UK,EPGShare,GREAT!.action.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Movies,Action,true
+uk:great-movies,GREAT! movies,UK,EPGShare,GREAT!.movies.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Movies,Movies,true
+uk:great-tv,GREAT! tv,UK,EPGShare,GREAT!.tv.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Entertainment,true
+us:grit,GRIT,US,EPGShare,grit.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+ca:h2,H2,Canada,EPGShare,history.2.canada.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Documentary,History,true
+us:hallmark-channel,Hallmark Channel,US,EPGShare,hallmark.channel.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Lifestyle & Culture,Lifestyle,true
+us:hallmark-family,Hallmark Family,US,EPGShare,hallmark.drama.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Lifestyle & Culture,Lifestyle,true
+us:hallmark-mystery,Hallmark Mystery,US,EPGShare,hallmark.movies.mysteries.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:hbo,HBO,US,EPGShare,hbo.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+ca:hbo,HBO,Canada,EPGShare,hbo.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,General Entertainment,Drama & Entertainment,true
+ca:hbo2,HBO2,Canada,EPGShare,hbo.2.eastern.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,General Entertainment,Drama & Entertainment,true
+us:hbo2,HBO2,US,EPGShare,hbo.2.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:hbo-comedy,HBO Comedy,US,EPGShare,hbo.comedy.east.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Comedy,true
+us:hbo-signature,HBO Signature,US,EPGShare,hbo.signature.hbo.3.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:hbo-zone,HBO Zone,US,EPGShare,hbo.zone.east.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:hdnet-movies,HDNet Movies,US,EPGShare,hdnet.movies.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:heroes-and-icons,Heroes & Icons,US,EPGShare,hi.heroes.icons.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+ca:hgtv,HGTV,Canada,EPGShare,hgtv.canada.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Lifestyle & Culture,Home & Garden,true
+uk:hgtv,HGTV,UK,EPGShare,HGTV.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Lifestyle & Culture,Home & Garden,true
+za:hgtv,HGTV,South Africa,EPGShare,HGTV.za,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,,Lifestyle & Culture,Home & Garden,true
+us:hgtv,HGTV,US,EPGShare,hgtv.usa.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Lifestyle & Culture,Lifestyle,true
+us:hillsong,HillSong,US,EPGShare,hillsong.channel.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Religion,Religion,true
+ca:history,HISTORY,Canada,EPGShare,history.canada.east.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Documentary,History,true
+us:history,History,US,EPGShare,history.channel.us.east.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Documentary,History,true
+us:history-en-espa-ol,History en Español,US,EPGShare,history.en.espanol.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Documentary,History,true
+us:hln,HLN,US,EPGShare,hln.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:hollywire,Hollywire,US,EPGShare,hollywire.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+ca:hollywood-suite-2000s,Hollywood Suite 2000s,Canada,EPGShare,hollywood.suite.00s.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Movies,Movies,true
+ca:hollywood-suite-1970s,Hollywood Suite 1970s,Canada,EPGShare,hollywood.suite.70s.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Movies,Movies,true
+ca:hollywood-suite-1980s,Hollywood Suite 1980s,Canada,EPGShare,hollywood.suite.80s.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Movies,Movies,true
+ca:hollywood-suite-1990s,Hollywood Suite 1990s,Canada,EPGShare,hollywood.suite.90s.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Movies,Movies,true
+ca:hpi-tv,HPI TV,Canada,EPGShare,hpitv.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Sports,Horse Racing,true
+us:hsn2,HSN2,US,EPGShare,hsn.2.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Lifestyle & Culture,Lifestyle,true
+us:hsn,HSN,US,EPGShare,hsn.home.shopping.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Lifestyle & Culture,Lifestyle,true
+us:hunt-channel,Hunt Channel,US,EPGShare,hunt.channel.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Lifestyle & Culture,Lifestyle,true
+us:ifc,IFC,US,EPGShare,ifc.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:indieplex,IndiePlex,US,EPGShare,indieplex.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:infowars,InfoWars,US,EPGShare,infowars.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:insp,INSP,US,EPGShare,insp.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+ca:investigation-discovery,Investigation Discovery,Canada,EPGShare,investigation.discovery.canada.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Documentary,Documentary / Factual,true
+us:investigation-discovery,Investigation Discovery,US,EPGShare,investigation.discovery.usa.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Documentary,Documentary / Factual,true
+us:ion,ION,US,EPGShare,ion.central.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:ion-plus,ION Plus,US,EPGShare,ion.plus.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+uk:itv1,ITV1,UK,EPGShare,ITV1.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Free-to-Air,true
+uk:itv2,ITV2,UK,EPGShare,ITV2.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Entertainment,true
+uk:itv3,ITV3,UK,EPGShare,ITV3.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Drama,true
+uk:itv4,ITV4,UK,EPGShare,ITV4.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Entertainment,true
+us:jays-talk-plus-sep-4,Jays Talk Plus: Sep. 4,US,EPGShare,sportsnet.003.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:justice-central,Justice Central,US,EPGShare,justice.central.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:kitchen-nightmares,Kitchen Nightmares,US,EPGShare,hells.kitchenkitchen.nightmares.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:laff-network,Laff Network,US,EPGShare,laff.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:law-and-crime-network,Law & Crime Network,US,EPGShare,law.crime.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,News & Business,News,true
+us:leicester-city,Leicester City,US,EPGShare,leicester.city.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+uk:lfctv,LFCTV,UK,EPGShare,LFCTV.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Sports,Football,true
+us:lifetime-movie-network,Lifetime Movie Network,US,EPGShare,lifetime.movies.east.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:lifetime,Lifetime,US,EPGShare,lifetime.network.us.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Lifestyle & Culture,Lifestyle,true
+us:lifetime-real-women,Lifetime Real Women,US,EPGShare,lifetime.real.women.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Lifestyle & Culture,Lifestyle,true
+ca:lifetime,Lifetime,Canada,EPGShare,lifetime.tv.canada.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,General Entertainment,Drama & Lifestyle,true
+us:logo,LOGO,US,EPGShare,logo.east.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+ca:love-nature,Love Nature,Canada,EPGShare,love.nature.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Documentary,Nature,true
+ca:makeful,Makeful,Canada,EPGShare,makeful.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Lifestyle & Culture,Crafts & DIY,true
+us:marquee-sports-network,Marquee Sports Network,US,EPGShare,marquee.sports.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:masn,MASN,US,EPGShare,mid.atlantic.sports.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:mavtv,MAVTV,US,EPGShare,mavtv.usa.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+ca:mavtv-canada,MAVTV Canada,Canada,EPGShare,mavtv.canada.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Sports,Motorsports,true
+ca:m-t-om-dia,MétéoMédia,Canada,EPGShare,meteo.media.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,News & Business,Weather,true
+us:metv,MeTV,US,EPGShare,metv.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:metv-toons,MeTV Toons,US,EPGShare,metv.toons.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:mgm-plus,MGM+,US,EPGShare,mgm.usa.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:military-history,Military History,US,EPGShare,military.history.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Documentary,History,true
+us:mk-dons,MK Dons,US,EPGShare,mk.dons.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+ca:mlb-network,MLB Network,Canada,EPGShare,mlb.network.canada.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Sports,Baseball,true
+us:mlb-network-strike-zone,MLB Network Strike Zone,US,EPGShare,mlb.network.strike.zone.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:mlb-network,MLB Network,US,EPGShare,mlb.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+uk:more4,More4,UK,EPGShare,More4.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Entertainment,true
+us:moremax,MoreMAX,US,EPGShare,moremax.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:motortrend,MotorTrend,US,EPGShare,motor.trend.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+ca:movietime,MovieTime,Canada,EPGShare,movietime.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Movies,Movies,true
+us:moviemax,MovieMAX,US,EPGShare,moviemax.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:movieplex,MOVIEPLEX,US,EPGShare,movieplex.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:movies,Movies!,US,EPGShare,movies.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:msg,MSG,US,EPGShare,msg.2.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:msg-sportsnet,MSG SportsNet,US,EPGShare,msg.plus.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:msg-2,MSG,US,EPGShare,msg.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:msnbc,MSNBC,US,EPGShare,msnbc.usa.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,News & Business,News,true
+uk:mtv,MTV,UK,EPGShare,MTV.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Music,Music,true
+us:mtv,MTV,US,EPGShare,mtv.usa.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+us:mtv-3,MTV,US,EPGShare,mtv.x2.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+us:mtv2,MTV2,US,EPGShare,mtv.2.east.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+ca:mtv,MTV,Canada,EPGShare,mtv.canada.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Music,Music & Entertainment,true
+us:mtv-classic,MTV Classic,US,EPGShare,mtv.classic.x2.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+us:mtv-classic-2,MTV Classic,US,EPGShare,mtv.classic.east.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+uk:mtv-hits,MTV Hits,UK,EPGShare,MTV.Hits.ie,https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz,,Music,Music,true
+us:mtv-live,MTV Live,US,EPGShare,mtv.live.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+uk:mtv-music,MTV Music,UK,EPGShare,MTV.MUSIC.ie,https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz,,Music,Music,true
+ca:muchmusic,MuchMusic,Canada,EPGShare,much.music.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Music,Music & Entertainment,true
+us:music-choice,Music Choice,US,EPGShare,music.choice.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+us:music-choice-adult-alternative,Music Choice Adult Alternative,US,EPGShare,music.choice.adult.alternative.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+us:music-choice-alternative,Music Choice Alternative,US,EPGShare,music.choice.alternative.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+us:music-choice-dance-edm,Music Choice Dance/EDM,US,EPGShare,music.choice.edm.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+uk:mutv,MUTV,UK,EPGShare,MUTV.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Sports,Football,true
+us:nasa-4k,NASA 4K,US,EPGShare,nasa.4k.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Documentary,Documentary / Factual,true
+uk:nat-geo-wild,Nat Geo Wild,UK,EPGShare,Nat.Geo.Wild.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Documentary,Animals & Nature,true
+za:national-geographic,National Geographic,South Africa,EPGShare,National.Geographic.Channel.za,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,,Documentary,Science & Nature,true
+ca:national-geographic,National Geographic,Canada,EPGShare,national.geographic.canada.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Documentary,Science & Nature,true
+uk:national-geographic,National Geographic,UK,EPGShare,Nat.Geo.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Documentary,Science & Nature,true
+us:national-geographic,National Geographic,US,EPGShare,national.geographic.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Documentary,Documentary / Factual,true
+us:national-geographic-2,National Geographic,US,EPGShare,national.geographic.us.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Documentary,Documentary / Factual,true
+us:nat-geo-wild,Nat Geo WILD,US,EPGShare,national.geographic.wild.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Documentary,Documentary / Factual,true
+us:nato-summit-2026,Nato Summit 2026,US,EPGShare,nato.summit.2026.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:nba-summer-league-nets-vs-rockets-jul-16-nba-02,NBA Summer League Nets vs. Rockets jul 16 :NBA 02,US,EPGShare,nba.005.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:nba-summer-league-raptors-vs-heat-jul-17-nba-05,NBA Summer League Raptors vs. Heat jul 17 :NBA 05,US,EPGShare,nba.009.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:nba-summer-league-warriors-vs-knicks-jul-16-nba-04,NBA Summer League Warriors vs. Knicks jul 16 :NBA 04,US,EPGShare,nba.007.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+ca:nba-tv,NBA TV,Canada,EPGShare,nba.tv.canada.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Sports,Basketball,true
+us:nba-tv,NBA TV,US,EPGShare,nba.tv.usa.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:nbc-news-now,NBC News NOW,US,EPGShare,nbc.news.now.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,News & Business,News,true
+us:nbc-sports-network,NBC Sports Network,US,EPGShare,nbc.sports.network.4.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:new-england-sports-network-plus,New England Sports Network Plus,US,EPGShare,new.england.sports.network.plus.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:new-england-sports-network,New England Sports Network,US,EPGShare,new.england.sports.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:newsmax,Newsmax,US,EPGShare,newsmax.tv.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,News & Business,News,true
+us:newsnation,NewsNation,US,EPGShare,newsnation.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,News & Business,News,true
+ca:nfl-network,NFL Network,Canada,EPGShare,nfl.network.alt.canadian.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Sports,American Football,true
+us:nfl-network,NFL Network,US,EPGShare,nfl.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:nhl-network,NHL Network,US,EPGShare,nhl.network.usa.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+uk:nick-jr,Nick Jr.,UK,EPGShare,Nick.Jr..HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Kids & Teen,Kids,true
+us:nick-jr,Nick Jr.,US,EPGShare,nick.jr.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Kids & Teen,Kids,true
+uk:nick-jr-too,Nick Jr. Too,UK,EPGShare,Nick.Jr..Too.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Kids & Teen,Kids,true
+us:nickmusic,NickMusic,US,EPGShare,nick.music.x2.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+uk:nicktoons,Nicktoons,UK,EPGShare,Nicktoons.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Kids & Teen,Kids,true
+za:nickelodeon,Nickelodeon,South Africa,EPGShare,Nickelodeon.za,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,,Kids & Teen,Kids,true
+us:nickelodeon,Nickelodeon,US,EPGShare,nickelodeon.usa.east.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Kids & Teen,Kids,true
+ca:nickelodeon,Nickelodeon,Canada,EPGShare,nickelodeon.canada.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Kids & Teen,Kids,true
+uk:nickelodeon,Nickelodeon,UK,EPGShare,NickelodeonHD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Kids & Teen,Kids,true
+us:nicktoons,Nicktoons,US,EPGShare,nicktoons.east.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Kids & Teen,Kids,true
+uk:now-70s,NOW 70s,UK,EPGShare,NOW.70s.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Music,Music,true
+uk:now-80s,NOW 80s,UK,EPGShare,NOW.80s.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Music,Music,true
+uk:now-rock,NOW Rock,UK,EPGShare,Now.Rock.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Music,Music,true
+ca:ntv,NTV,Canada,EPGShare,cjon.ntv.st.john.nl.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,General Entertainment,Free-to-Air,true
+ca:oln,OLN,Canada,EPGShare,outdoor.life.network.canada.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Lifestyle & Culture,Outdoors,true
+ca:omni-1,OMNI 1,Canada,EPGShare,omni.1.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,International,Multicultural,true
+ca:omni-2,OMNI 2,Canada,EPGShare,omni.2.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,International,Multicultural,true
+us:one-america-news-network,One America News Network,US,EPGShare,one.america.news.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,News & Business,News,true
+ca:onesoccer,OneSoccer,Canada,EPGShare,one.soccer.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Sports,Football,true
+us:outdoor-channel,Outdoor Channel,US,EPGShare,outdoor.channel.us.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:outside,Outside,US,EPGShare,outside.television.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Documentary,Documentary / Factual,true
+us:ovation,Ovation,US,EPGShare,ovation.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:own,OWN,US,EPGShare,oprah.winfrey.network.usa.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Lifestyle & Culture,Lifestyle,true
+us:oxygen,Oxygen,US,EPGShare,oxygen.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Lifestyle & Culture,Lifestyle,true
+us:paramount-ufc-330-em-portugu-s,Paramount | UFC 330 em Português,US,EPGShare,paramount.017.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:paramount-ufc-330-en-espa-ol,Paramount | UFC 330 en Español,US,EPGShare,paramount.018.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:paramount-network,Paramount Network,US,EPGShare,paramount.network.usa.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:paramount-network-3,Paramount Network,US,EPGShare,paramount.network.x2.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+ca:paramount-network,Paramount Network,Canada,EPGShare,paramount.network.canada.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,General Entertainment,Drama & Entertainment,true
+us:paramount-plus,Paramount+,US,EPGShare,paramount.plus.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+uk:pbs-america,PBS America,UK,EPGShare,PBS.America.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Documentary,History & Factual,true
+us:pbs-kids,PBS Kids,US,EPGShare,pbs.kids.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Kids & Teen,Kids,true
+us:pixl,PixL,US,EPGShare,pixl.tv.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:pokergo,PokerGO,US,EPGShare,poker.go.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:pop,POP,US,EPGShare,pop.east.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+uk:pop,POP,UK,EPGShare,POP.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Kids & Teen,Kids,true
+us:popstar,PopStar!,US,EPGShare,popstar.east.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+uk:premier-sports-1,Premier Sports 1,UK,EPGShare,Premier.Sports.1.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Sports,Sports,true
+uk:premier-sports-2,Premier Sports 2,UK,EPGShare,Premier.Sports.2.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Sports,Sports,true
+us:pure-flix,Pure Flix,US,EPGShare,pureflix.tv.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:pursuit,Pursuit,US,EPGShare,pursuit.channel.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+uk:quest,Quest,UK,EPGShare,QUEST.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Documentary,Factual & Reality,true
+uk:quest-red,Quest Red,UK,EPGShare,Quest.Red.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Documentary,Factual & Reality,true
+us:qvc,QVC,US,EPGShare,qvc.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Lifestyle & Culture,Lifestyle,true
+us:qvc2,QVC2,US,EPGShare,qvc2.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Lifestyle & Culture,Lifestyle,true
+us:rally-tv,Rally TV,US,EPGShare,rally.tv.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+uk:really,Really,UK,EPGShare,Really.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Entertainment,true
+us:reelz,Reelz,US,EPGShare,reelzchannel.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:retro-tv,Retro TV,US,EPGShare,retro.tv.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:retroplex,RetroPlex,US,EPGShare,retroplex.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:revolt,REVOLT,US,EPGShare,revolt.tv.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+us:rfd-tv,RFD-TV,US,EPGShare,rfd.tv.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:rockies-tv,Rockies TV,US,EPGShare,rockies.tv.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:root-sports-northwest,Root Sports Northwest,US,EPGShare,root.sports.northwest.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:rt,RT,US,EPGShare,rt.russia.today.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,News & Business,News,true
+uk:rt-2,RTÉ2,UK,EPGShare,RTE.Two.HD.ie,https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz,,International,Irish,true
+uk:rt-jr,RTÉjr,UK,EPGShare,RTEjr.ie,https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz,,International,Irish Kids,true
+uk:rt-news,RTÉ News,UK,EPGShare,RTE.News.Now.ie,https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz,,International,Irish News,true
+uk:rt-one,RTÉ One,UK,EPGShare,RTE.One.HD.ie,https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz,,International,Irish,true
+us:rush-by-amc,Rush by AMC,US,EPGShare,rush.amc.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+za:sabc-2,SABC 2,South Africa,EPGShare,SABC.2.HD.za,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,,General Entertainment,Free-to-Air,true
+za:sabc-3,SABC 3,South Africa,EPGShare,SABC.3.HD.za,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,,General Entertainment,Free-to-Air,true
+ca:salt-plus-light-media,Salt + Light Media,Canada,EPGShare,salt.light.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Religion,Christian,true
+au:sbs-food,SBS Food,AU,EPGShare,SBSFood.au,https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz,,Lifestyle & Culture,Food,true
+au:sbs,SBS,AU,EPGShare,SBSTV.au,https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz,,General Entertainment,Entertainment,true
+us:science-channel,Science Channel,US,EPGShare,science.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Documentary,Documentary / Factual,true
+us:screenpix,ScreenPix,US,EPGShare,screenpix.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:screenpix-action,ScreenPix Action,US,EPGShare,screenpix.action.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:screenpix-voices,ScreenPix Voices,US,EPGShare,screenpix.voices.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:screenpix-westerns,ScreenPix Westerns,US,EPGShare,screenpix.westerns.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:sec-network,SEC Network,US,EPGShare,sec.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+ca:showcase,Showcase,Canada,EPGShare,showcase.canada.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,General Entertainment,Drama & Entertainment,true
+us:showtime,SHOWTIME,US,EPGShare,showtime.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:showtime-2,SHOWTIME 2,US,EPGShare,showtime.2.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:showtime-extreme,SHOWTIME EXTREME,US,EPGShare,showtime.extreme.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:showtime-familyzone,SHOWTIME FAMILYZONE,US,EPGShare,showtime.family.zone.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:showtime-next,SHOWTIME NEXT,US,EPGShare,showtime.next.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:showtime-showcase,SHOWTIME SHOWCASE,US,EPGShare,showtime.showcase.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:showtime-women,SHOWTIME WOMEN,US,EPGShare,showtime.women.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:sho-bet,SHO×BET,US,EPGShare,shoxbet.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+uk:sky-arts,Sky Arts,UK,EPGShare,Sky.Arts.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Lifestyle & Culture,Arts & Culture,true
+uk:sky-atlantic,Sky Atlantic,UK,EPGShare,Sky.Atlantic.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Drama & Entertainment,true
+uk:sky-cinema-action,Sky Cinema Action,UK,EPGShare,Sky.Action.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Movies,Action,true
+uk:sky-cinema-comedy,Sky Cinema Comedy,UK,EPGShare,Sky.Cinema.Comedy.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Movies,Comedy,true
+uk:sky-cinema-drama,Sky Cinema Drama,UK,EPGShare,Sky.Drama.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Movies,Drama,true
+uk:sky-cinema-family,Sky Cinema Family,UK,EPGShare,Sky.Family.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Movies,Family,true
+uk:sky-cinema-greats,Sky Cinema Greats,UK,EPGShare,Sky.Greats.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Movies,Movies,true
+uk:sky-cinema-hits,Sky Cinema Hits,UK,EPGShare,Sky.Cinema.Hits.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Movies,Movies,true
+uk:sky-cinema-premiere,Sky Cinema Premiere,UK,EPGShare,SkyPremiereHD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Movies,Movies,true
+uk:sky-cinema-sci-fi-horror,Sky Cinema Sci-Fi Horror,UK,EPGShare,Sky.Sci-Fi.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Movies,Sci-Fi & Horror,true
+uk:sky-cinema-select,Sky Cinema Select,UK,EPGShare,Sky.Cinema.Select.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Movies,Movies,true
+uk:sky-cinema-thriller,Sky Cinema Thriller,UK,EPGShare,Sky.Thriller.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Movies,Thriller,true
+uk:sky-comedy,Sky Comedy,UK,EPGShare,Sky.Comedy.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Comedy,true
+uk:sky-crime,Sky Crime,UK,EPGShare,Sky.Crime.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Documentary,Crime,true
+uk:sky-documentaries,Sky Documentaries,UK,EPGShare,Sky.Documentaries.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Documentary,Documentary / Factual,true
+uk:sky-history,Sky History,UK,EPGShare,Sky.HistoryHD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Documentary,History,true
+uk:sky-max,Sky Max,UK,EPGShare,Sky.One.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Entertainment,true
+uk:sky-nature,Sky Nature,UK,EPGShare,Sky.Nature.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Documentary,Nature,true
+au:sky-news-australia,Sky News Australia,AU,EPGShare,SkyNewsAustralia.au,https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz,,News & Business,News,true
+uk:sky-replay,Sky Replay,UK,EPGShare,Sky.Replay.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Entertainment,true
+nz:sky-sport-1,Sky Sport 1,NZ,EPGShare,Sky.Sport.1.nz,https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz,,Sports,Sports,true
+nz:sky-sport-2,Sky Sport 2,NZ,EPGShare,Sky.Sport.2.nz,https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz,,Sports,Sports,true
+nz:sky-sport-3,Sky Sport 3,NZ,EPGShare,Sky.Sport.3.nz,https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz,,Sports,Sports,true
+nz:sky-sport-4,Sky Sport 4,NZ,EPGShare,Sky.Sport.4.nz,https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz,,Sports,Sports,true
+nz:sky-sport-5,Sky Sport 5,NZ,EPGShare,Sky.Sport.5.nz,https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz,,Sports,Sports,true
+nz:sky-sport-6,Sky Sport 6,NZ,EPGShare,Sky.Sport.6.nz,https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz,,Sports,Sports,true
+nz:sky-sport-7,Sky Sport 7,NZ,EPGShare,Sky.Sport.7.nz,https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz,,Sports,Sports,true
+nz:sky-sport-8,Sky Sport 8,NZ,EPGShare,Sky.Sport.8.nz,https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz,,Sports,Sports,true
+nz:sky-sport-9,Sky Sport 9,NZ,EPGShare,Sky.Sport.9.nz,https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz,,Sports,Sports,true
+nz:sky-sport-premier-league,Sky Sport Premier League,NZ,EPGShare,Sky.Sport.Premier.League.nz,https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz,,Sports,Sports,true
+nz:sky-sport-select,Sky Sport Select,NZ,EPGShare,Sky.Sport.Select.nz,https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz,,Sports,Sports,true
+uk:sky-sports-action,Sky Sports Action,UK,EPGShare,SkySp.ActionHD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Sports,Sports,true
+uk:sky-sports-arena,Sky Sports Arena,UK,EPGShare,SkySp+HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Sports,Sports,true
+uk:sky-sports-cricket,Sky Sports Cricket,UK,EPGShare,SkySpCricket.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Sports,Cricket,true
+uk:sky-sports-f1,Sky Sports F1,UK,EPGShare,SkySp.F1.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Sports,Motorsports,true
+uk:sky-sports-football,Sky Sports Football,UK,EPGShare,SkySp.Fball.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Sports,Football,true
+uk:sky-sports-golf,Sky Sports Golf,UK,EPGShare,SkySp.Golf.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Sports,Golf,true
+uk:sky-sports-main-event,Sky Sports Main Event,UK,EPGShare,SkySpMainEvHD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Sports,Sports,true
+uk:sky-sports-mix,Sky Sports Mix,UK,EPGShare,SkySp.Mix.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Sports,Sports,true
+uk:sky-sports-news,Sky Sports News,UK,EPGShare,SkySp.News.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Sports,Sports News,true
+uk:sky-sports-premier-league,Sky Sports Premier League,UK,EPGShare,SkySp.PL.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Sports,Football,true
+uk:sky-sports-racing,Sky Sports Racing,UK,EPGShare,SkySp.Racing.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Sports,Horse Racing,true
+uk:sky-sports-tennis,Sky Sports Tennis,UK,EPGShare,SkySp.Tennis.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Sports,Tennis,true
+uk:sky-witness,Sky Witness,UK,EPGShare,Sky.Witness.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Drama & Entertainment,true
+ca:slice,Slice,Canada,EPGShare,slice.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Lifestyle & Culture,Lifestyle & Reality,true
+us:smithsonian-channel,Smithsonian Channel,US,EPGShare,smithsonian.channel.usa.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Documentary,Documentary / Factual,true
+us:sportsnet-new-york,SportsNet New York,US,EPGShare,sny.sportsnet.new.york.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:sonlife-broadcasting-network,SonLife Broadcasting Network,US,EPGShare,sonlife.broadcasting.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Religion,Religion,true
+us:sony-movies,Sony Movies,US,EPGShare,sony.movies.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:space-city-home-network,Space City Home Network,US,EPGShare,att.sportsnet.southwest.houston.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:spectrum-news-ny1,Spectrum News NY1,US,EPGShare,spectrum.news.ny1.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,News & Business,News,true
+za:spice-tv,Spice TV,South Africa,EPGShare,Spice.TV.za,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,,Lifestyle & Culture,Lifestyle,true
+us:sportsman-channel,Sportsman Channel,US,EPGShare,sportsman.channel.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:stadium,Stadium,US,EPGShare,stadium.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+za:star-life,Star Life,South Africa,EPGShare,Star.Life.HD.za,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,,General Entertainment,Entertainment,true
+us:start-tv,Start TV,US,EPGShare,start.tv.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:starz,STARZ,US,EPGShare,starz.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:starz-cinema,STARZ Cinema,US,EPGShare,starz.cinema.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:starz-comedy,STARZ Comedy,US,EPGShare,starz.comedy.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Comedy,true
+us:starz-edge,STARZ Edge,US,EPGShare,starz.edge.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:starz-encore,STARZ Encore,US,EPGShare,starz.encore.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:starz-encore-action,STARZ Encore Action,US,EPGShare,starz.encore.action.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:starz-encore-black,STARZ Encore Black,US,EPGShare,starz.encore.black.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:starz-encore-classic,STARZ Encore Classic,US,EPGShare,starz.encore.classic.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:starz-encore-family,STARZ Encore Family,US,EPGShare,starz.encore.family.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:starz-inblack,STARZ InBlack,US,EPGShare,starz.in.black.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:starz-kids-and-family,STARZ Kids & Family,US,EPGShare,starz.kids.family.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:starz-suspense,STARZ Suspense,US,EPGShare,starz.encore.suspense.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:starz-westerns,STARZ Westerns,US,EPGShare,starz.encore.westerns.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+ca:starz1,STARZ1,Canada,EPGShare,starz1.east.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Movies,Movies & Series,true
+ca:starz2,STARZ2,Canada,EPGShare,starz2.east.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Movies,Movies & Series,true
+us:stingray-classic-rock,Stingray Classic Rock,US,EPGShare,stingray.classic.rock.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+us:stingray-flashback-70s,Stingray Flashback 70s,US,EPGShare,stingray.flashback.70s.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+ca:stingray-franco-country,Stingray Franco Country,Canada,EPGShare,stingray.franco.country.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Music,Music,true
+us:stingray-hip-hop,Stingray Hip Hop,US,EPGShare,stingray.hip.hop.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+us:stingray-hit-list,Stingray Hit List,US,EPGShare,stingray.hit.list.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+us:stingray-hot-country,Stingray Hot Country,US,EPGShare,stingray.hot.country.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+us:stingray-karaoke,Stingray Karaoke,US,EPGShare,stingray.karaoke.on.demand.1.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+us:stingray-nature-escape,Stingray Nature Escape,US,EPGShare,stingray.nature.escape.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+us:stingray-pop-adult,Stingray Pop Adult,US,EPGShare,stingray.pop.adult.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+us:stingray-quello,Stingray Quello,US,EPGShare,stingray.quello.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+us:stingray-remember-the-80s,Stingray Remember The 80s,US,EPGShare,stingray.remember.the.80s.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+ca:stingray-retro,Stingray Retro,Canada,EPGShare,stingray.retro.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Music,Music,true
+us:stingray-rock-alternative,Stingray Rock Alternative,US,EPGShare,stingray.rock.alternative.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+us:stingray-urban-beat,Stingray Urban Beat,US,EPGShare,stingray.urban.beat.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+ca:stingray-nostalgie,Stingray: Nostalgie,Canada,EPGShare,stingray.nostalgie.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Music,Music,true
+ca:stingray-smooth-jazz,Stingray: Smooth Jazz,Canada,EPGShare,stingray.smooth.jazz.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Music,Music,true
+uk:stv,STV,UK,EPGShare,STV.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Free-to-Air,true
+us:sundancetv,SundanceTV,US,EPGShare,sundancetv.usa.east.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+ca:super-channel-fuse,Super Channel Fuse,Canada,EPGShare,super.channel.fuse.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Movies,Movies & Series,true
+ca:super-channel-heart-and-home,Super Channel Heart & Home,Canada,EPGShare,super.channel.heart.home.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Lifestyle & Culture,Home & Lifestyle,true
+za:supersport-action,SuperSport Action,South Africa,EPGShare,SS.Action.za,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,,Sports,Sports,true
+za:supersport-cricket,SuperSport Cricket,South Africa,EPGShare,CRICKET.za,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,,Sports,Cricket,true
+za:supersport-golf,SuperSport Golf,South Africa,EPGShare,GOLF.za,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,,Sports,Golf,true
+za:supersport-la-liga,SuperSport La Liga,South Africa,EPGShare,SS.La.Liga.za,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,,Sports,Football,true
+za:supersport-variety-1,SuperSport Variety 1,South Africa,EPGShare,SS.Variety.1.za,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,,Sports,Sports,true
+za:supersport-variety-3,SuperSport Variety 3,South Africa,EPGShare,SS.Variety.3.za,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,,Sports,Sports,true
+za:supersport-variety-4,SuperSport Variety 4,South Africa,EPGShare,SS.Variety.4.za,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,,Sports,Sports,true
+us:syfy,SYFY,US,EPGShare,syfy.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+uk:talking-pictures-tv,Talking Pictures TV,UK,EPGShare,TalkingPictures.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Movies,Classic Movies,true
+us:tastemade,Tastemade,US,EPGShare,tastemade.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Documentary,Documentary / Factual,true
+us:tbn,TBN,US,EPGShare,tbn.trinity.broadcasting.network.east.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Religion,Religion,true
+us:tbs,TBS,US,EPGShare,tbs.east.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:teennick,TeenNick,US,EPGShare,teen.nick.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Kids & Teen,Kids,true
+us:teennick-2,TeenNick,US,EPGShare,teennick.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Kids & Teen,Kids,true
+ca:teletoon,Teletoon,Canada,EPGShare,teletoon.east.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Kids & Teen,Kids,true
+us:television-dominicana,Television Dominicana,US,EPGShare,television.dominicana.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,International,Spanish / International,true
+us:tennis-channel,Tennis Channel,US,EPGShare,the.tennis.channel.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:the-blaze,The Blaze,US,EPGShare,the.blaze.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,News & Business,News,true
+us:the-dove,The Dove,US,EPGShare,the.dove.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Religion,Religion,true
+us:the-first,The First,US,EPGShare,the.first.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,News & Business,News,true
+us:the-movie-channel,The Movie Channel,US,EPGShare,movie.channel.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:the-movie-channel-xtra,The Movie Channel Xtra,US,EPGShare,movie.channel.extra.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:the-weather-channel,The Weather Channel,US,EPGShare,the.weather.channel.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,News & Business,News,true
+us:the-word-network,The Word Network,US,EPGShare,the.word.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Religion,Religion,true
+uk:tiny-pop,Tiny Pop,UK,EPGShare,Tiny.Pop.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Kids & Teen,Kids,true
+ca:tlc,TLC,Canada,EPGShare,tlc.canada.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Lifestyle & Culture,Lifestyle & Reality,true
+uk:tlc,TLC,UK,EPGShare,TLC.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Lifestyle & Culture,Lifestyle,true
+us:tlc,TLC,US,EPGShare,tlc.usa.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Lifestyle & Culture,Lifestyle,true
+us:tmz,TMZ,US,EPGShare,tmz.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:tnt,TNT,US,EPGShare,tnt.east.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+za:tnt-africa,TNT Africa,South Africa,EPGShare,TNT.Africa.HD.za,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,,Movies,Movies,true
+uk:tnt-sports-2,TNT Sports 2,UK,EPGShare,TNT.Sports.2.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Sports,Sports,true
+uk:tnt-sports-3,TNT Sports 3,UK,EPGShare,TNT.Sports.3.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Sports,Sports,true
+uk:tnt-sports-4,TNT Sports 4,UK,EPGShare,TNT.Sports.4.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Sports,Sports,true
+uk:tnt-sports-1,TNT Sports 1,UK,EPGShare,TNT.Sports.1.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Sports,Sports,true
+us:tr3s,Tr3s,US,EPGShare,tr3s.x2.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,International,Spanish / International,true
+ca:t-plus-e,T+E,Canada,EPGShare,travel.escape.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Lifestyle & Culture,Travel,true
+us:travel-channel,Travel Channel,US,EPGShare,travel.us.east.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Documentary,Documentary / Factual,true
+ca:travelxp,Travelxp,Canada,EPGShare,travelxp.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Lifestyle & Culture,Travel,true
+ca:treehouse,Treehouse,Canada,EPGShare,treehouse.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Kids & Teen,Kids,true
+us:trillertv-kalba-vs-al-ain,TrillerTV | Kalba vs Al Ain,US,EPGShare,triller.001.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:true-crime-network,True Crime Network,US,EPGShare,true.crime.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Documentary,Documentary / Factual,true
+us:trutv,truTV,US,EPGShare,trutv.usa.east.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+ca:tsn1,TSN1,Canada,EPGShare,tsn1.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Sports,Sports,true
+ca:tsn2,TSN2,Canada,EPGShare,tsn2.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Sports,Sports,true
+ca:tsn3,TSN3,Canada,EPGShare,tsn3.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Sports,Sports,true
+ca:tsn4,TSN4,Canada,EPGShare,tsn4.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Sports,Sports,true
+ca:tsn5,TSN5,Canada,EPGShare,tsn5.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Sports,Sports,true
+us:tudn-xtra-1,TUDN Xtra 1,US,EPGShare,tudnxtra.1.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,International,Spanish / International,true
+us:tudn-xtra-10,TUDN Xtra 10,US,EPGShare,tudnxtra.10.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,International,Spanish / International,true
+us:tudn-xtra-2,TUDN Xtra 2,US,EPGShare,tudnxtra.2.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,International,Spanish / International,true
+us:tudn-xtra-3,TUDN Xtra 3,US,EPGShare,tudnxtra.3.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,International,Spanish / International,true
+us:tudn-xtra-4,TUDN Xtra 4,US,EPGShare,tudnxtra.4.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,International,Spanish / International,true
+us:tudn-xtra-5,TUDN Xtra 5,US,EPGShare,tudnxtra.5.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,International,Spanish / International,true
+us:tudn-xtra-6,TUDN Xtra 6,US,EPGShare,tudnxtra.6.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,International,Spanish / International,true
+us:tudn-xtra-7,TUDN Xtra 7,US,EPGShare,tudnxtra.7.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,International,Spanish / International,true
+us:tudn-xtra-8,TUDN Xtra 8,US,EPGShare,tudnxtra.8.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,International,Spanish / International,true
+us:tudn-xtra-9,TUDN Xtra 9,US,EPGShare,tudnxtra.9.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,International,Spanish / International,true
+us:tcm,TCM,US,EPGShare,turner.classic.movies.usa.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Movies,Movies & Series,true
+us:tv-land,TV Land,US,EPGShare,tv.land.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:tv-one,TV One,US,EPGShare,tv.one.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:tvg-television-games-network,TVG Television Games Network,US,EPGShare,tvg.television.games.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+ca:tvo,TVO,Canada,EPGShare,tvo.tv.ontario.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,General Entertainment,Educational / Public,true
+us:ufc-fight-pass,UFC Fight Pass,US,EPGShare,ufc.001.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:uk-max-047-2098-12-31-13-00-03,UK (MAX 047) |  (2098-12-31 13:00:03),US,EPGShare,flo.racing.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:unbeaten-24-7-global-sports,Unbeaten: 24/7 Global Sports,US,EPGShare,unbeaten.global.sports.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+us:tudn,TUDN,US,EPGShare,uni.deportes.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,International,Spanish / International,true
+us:tlnovelas,Tlnovelas,US,EPGShare,univision.tlnovelas.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,International,Spanish / International,true
+us:uptv,UPtv,US,EPGShare,up.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:usa-network,USA Network,US,EPGShare,usa.network.east.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+uk:utv,UTV,UK,EPGShare,UTV.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Free-to-Air,true
+us:vh1,VH1,US,EPGShare,vh1.eastern.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Music,Music,true
+us:vice,VICE,US,EPGShare,vice.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+uk:virgin-media-one,Virgin Media One,UK,EPGShare,Virgin.Media.One.HD.ie,https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz,,General Entertainment,Entertainment,true
+uk:virgin-media-three,Virgin Media Three,UK,EPGShare,Virgin.Media.Three.HD.ie,https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz,,General Entertainment,Entertainment,true
+uk:virgin-media-two,Virgin Media Two,UK,EPGShare,Virgin.Media.Two.HD.ie,https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz,,General Entertainment,Entertainment,true
+ca:visiontv,VisionTV,Canada,EPGShare,vision.tv.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Religion,Religion & Culture,true
+us:vsin,VSiN,US,EPGShare,vsin.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+uk:w,W,UK,EPGShare,U.and.W.HD.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,General Entertainment,Entertainment,true
+us:we-tv,WE tv,US,EPGShare,we.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+us:we-tv-plus,WE tv+,US,EPGShare,we.tv.plus.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,General Entertainment,Entertainment,true
+ca:the-weather-network,The Weather Network,Canada,EPGShare,weather.network.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,News & Business,Weather,true
+us:weathernation-2,WeatherNation (2),US,EPGShare,weathernation.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,News & Business,News,true
+us:world-fishing-network,World Fishing Network,US,EPGShare,wfn.world.fishing.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+ca:wild-tv,Wild TV,Canada,EPGShare,wild.tv.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Lifestyle & Culture,Outdoors,true
+us:willow,Willow,US,EPGShare,willow.cricket.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+za:wwe-channel,WWE Channel,South Africa,EPGShare,WWE.CHANNEL.za,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,,Sports,Wrestling,true
+us:yes-network,YES Network,US,EPGShare,yes.network.us2,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,,Sports,Sports,true
+ca:yes-tv,YES TV,Canada,EPGShare,yes.tv.ckcs.calgary.ab.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,General Entertainment,Free-to-Air,true
+uk:yesterday,Yesterday,UK,EPGShare,U.and.YESTERDAY.uk,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,,Documentary,History,true
+ca:ytv,YTV,Canada,EPGShare,ytv.youth.television.east.ca2,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,,Kids & Teen,Kids,true
