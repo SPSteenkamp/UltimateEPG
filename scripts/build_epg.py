@@ -466,12 +466,39 @@ def parse_source(
         f"unmatched={resolution_stats['unmatched']:,}",
     )
 
-    # Map source channel IDs to stable IDs. This also allows programmes
-    # to be rewritten without changing the source programme data.
-    source_to_stable = defaultdict(list)
+    # Map each source channel ID to exactly one stable ID.
+    # A source channel must never be assigned to multiple canonical
+    # channels because a programme record has only one channel ID.
+    source_to_stable = {}
+    duplicate_source_ids = set()
 
-    for stable_id, item in resolved.items():
-        source_to_stable[item["source_id"]].append(stable_id)
+    for stable_id, item in list(resolved.items()):
+        source_id = item["source_id"]
+
+        if source_id in source_to_stable:
+            duplicate_source_ids.add(source_id)
+            del resolved[stable_id]
+            unresolved.append({
+                "stable_id": stable_id,
+                "channel": item["canonical_name"],
+                "configured_epg_id": "",
+                "country": "",
+                "source": url,
+                "reason": (
+                    "duplicate_source_channel_id:"
+                    + source_id
+                ),
+            })
+            resolution_stats["duplicate_source_id"] += 1
+            continue
+
+        source_to_stable[source_id] = stable_id
+
+    if duplicate_source_ids:
+        print(
+            "Duplicate source channel IDs rejected:",
+            len(duplicate_source_ids),
+        )
 
     programme_file = (
         workdir
